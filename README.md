@@ -26,7 +26,7 @@ _Graduated: January 8, 2025_
 
 ### Bachelor of Software Engineering  
 **[Your University Name]**  
-_Graduated: [Your Graduation Year]_  
+_Graduated: 2020  
 - Specialized in software development, system design, and programming.  
 - **Capstone Project:** [Brief description of your capstone project].
 
