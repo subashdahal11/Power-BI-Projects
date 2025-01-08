@@ -64,9 +64,6 @@ _Dates of Employment: [Start Date] – [End Date]_
 ### Sales Performance Dashboard  
 - Developed an interactive Power BI dashboard to visualize sales metrics across regions and time.  
 - Improved insights into revenue trends, profit margins, and underperforming segments.
-
-### Customer Churn Analysis  
-- Conducted an exploratory analysis using Python and Power BI to identify churn predictors.  
 - Presented actionable recommendations to enhance customer retention.  
 
 ---
@@ -82,4 +79,4 @@ _Dates of Employment: [Start Date] – [End Date]_
 ## Availability
 
 - **Full-time:** Available immediately.  
-- **Location:** Sydney, Australia.  
+- **Location:** Sydney,Homebush,NSW,2140, Australia.  
