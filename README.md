@@ -1,8 +1,7 @@
-# Power-BI-Projects
-- Data Analytics Dashboard using  Power BI. 
+
 # Subash Dahal
 
-📊 **Aspiring Data Analyst | Functional Consultant | Software Engineer**  
+📊 **Information System Gradutated | Functional Consultant | Software Engineer | Job Seeking Data Analyst**  
 📍 Based in Sydney, Australia  
 📧 Email: 0450356284  
 📱 Phone: 0450356284  
