@@ -24,7 +24,7 @@ _Graduated: January 8, 2025_
 - **Relevant Coursework:** Data Visualization, Advanced Database Management, IT Governance.
 
 ### Bachelor of Software Engineering  
-**University of NOrthampton]**  
+**University of NOrthampton**  
 _Graduated: 2020  
 - Specialized in software development, system design, and programming.  
 
