@@ -27,7 +27,7 @@ _Graduated: January 8, 2025_
 **University of NOrthampton]**  
 _Graduated: 2020  
 - Specialized in software development, system design, and programming.  
-- **Capstone Project:** [Brief description of your capstone project].
+
 
 ---
 
@@ -42,8 +42,7 @@ _Graduated: 2020
 ## Experience
 
 ### Functional Consultant  
-**[Your Previous Company]**  
-_Dates of Employment: [Start Date] – [End Date]_  
+** Neoteric Nepal **   
 - Analyzed and improved business processes to enhance system functionality.  
 - Collaborated with cross-functional teams to deliver tailored software solutions.  
 - Conducted training and support sessions for end-users, increasing system adoption by X%.
