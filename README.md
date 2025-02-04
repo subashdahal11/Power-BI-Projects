@@ -72,9 +72,4 @@ _Graduated: 2020
 - **Phone:** 0450356284  
 - **Professional Profile:** [Click Here](https://bold.pro/my/subash-dahal-231104161557?vsid=5bc9d754-0589-40e0-8536-48bd34d0ccc8)
 
----
 
-## Availability
-
-- **Full-time:** Available immediately.  
-- **Location:** Sydney,Homebush,NSW,2140, Australia.  
