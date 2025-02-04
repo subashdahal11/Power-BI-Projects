@@ -5,9 +5,6 @@
 📍 Based in Sydney, Australia  
 📧 Email: 0450356284  
 📱 Phone: 0450356284  
-🌐 [Professional Profile](https://bold.pro/my/subash-dahal-231104161557?vsid=5bc9d754-0589-40e0-8536-48bd34d0ccc8)
-
----
 
 ## About Me
 
@@ -47,24 +44,14 @@ _Graduated: 2020
 - Collaborated with cross-functional teams to deliver tailored software solutions.  
 - Conducted training and support sessions for end-users, increasing system adoption by X%.
 
----
-
 ## Skills
 
-- **Technical Skills:** Python, SQL, Power BI, Tableau, Microsoft Excel.  
-- **Analytics:** Data Cleaning, Exploratory Data Analysis (EDA), Business Intelligence Dashboards.  
-- **Soft Skills:** Communication, Team Collaboration, Problem Solving.  
-
----
-
-## Projects
-
-### Sales Performance Dashboard  
-- Developed an interactive Power BI dashboard to visualize sales metrics across regions and time.  
-- Improved insights into revenue trends, profit margins, and underperforming segments.
-- Presented actionable recommendations to enhance customer retention.  
-
----
+- **Technical Skills:**
+  Python, SQL, Power BI, Tableau, Microsoft Excel.  
+- **Analytics:**
+  Data Cleaning, Exploratory Data Analysis (EDA), Business Intelligence Dashboards.  
+- **Soft Skills:**
+  Communication, Team Collaboration, Problem Solving.  
 
 ## Contact
 
